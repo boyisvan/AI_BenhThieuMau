@@ -57,7 +57,29 @@ It is important to identify and treat anemia promptly, as it can lead to complic
 ---
 ## Usages
 [Run Live App](https://anemia-detection-with-machine-learning-b7llxt4qca.streamlit.app)
-
+or run code -> streamlit anemia.py
 ## Contributing
 
 Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+## Project Photo
+
+![image](https://github.com/user-attachments/assets/cfdc3bd6-8b6e-410d-bc7c-a65541a71072)
+
+![image](https://github.com/user-attachments/assets/24160063-bcfe-4200-9ad1-fa7e58fc43b8)
+
+![image](https://github.com/user-attachments/assets/c9908bc8-9f22-4ac4-bbbe-89a11411cea0)
+
+![image](https://github.com/user-attachments/assets/ce0131fa-099f-41f4-80a9-a113ef418c00)
+
+![image](https://github.com/user-attachments/assets/7f006c5f-fed9-4071-907d-d6c5c1aebdd7)
+
+![image](https://github.com/user-attachments/assets/f4b7eb2c-afc2-477c-8d01-d58db75b4aa6)
+
+Contact me : 0587282880 ( phone & zalo ) - my email address: ducvan05102002@gmail.com
+Thanks. Now U can give me a star <33
+
+
+
+
+
+---
